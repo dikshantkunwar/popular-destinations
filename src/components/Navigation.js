@@ -1,5 +1,13 @@
-export default function Navigation() {
+import Destination from './Destination'
+import Styles from './nav.module.css'
+
+export default function Navigation(props) {
   return (
-    <h1>Popular Destinations</h1>
+    <>
+      <nav className={Styles.nav}>
+        <h1>Popular Destinations</h1>
+      </nav>
+    </>
+    
   )
 }
