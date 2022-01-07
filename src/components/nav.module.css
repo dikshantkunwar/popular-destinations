@@ -11,10 +11,3 @@ nav {
 nav h1 {
   font-size: xx-large;
 }
-
-main {
-  margin-top: 200px;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-}

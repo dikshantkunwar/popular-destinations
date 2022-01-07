@@ -1,5 +1,11 @@
 .destination {
   display: flex;
   flex-direction: column;
-  background-color: blueviolet;
+  width: 40%;
+}
+
+.destination img {
+  margin: 50px;
+  width: 500px;
+  height: 400px;
 }

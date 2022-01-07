@@ -11,7 +11,7 @@ function App() {
           destinationName="Bangkok"
           likes={200}
           dislikes={78}
-          imageurl = ""
+          imageurl = "https://www.tripsavvy.com/thmb/IkoPZKwM5BmhWB-064flnLZWylo=/3804x3804/smart/filters:no_upscale()/bangkok-at-sunset-5bd5f2f746e0fb005818e042.jpg"
         />
         <div>
           <span>Most Popular Destination</span>
@@ -21,7 +21,7 @@ function App() {
           destinationName="New Delhi"
           likes={88}
           dislikes={309}
-          imageurl = ""
+          imageurl = "https://media-cdn.tripadvisor.com/media/photo-s/08/b7/1f/31/qutab-minar.jpg"
         />
       </main>
     </div>
