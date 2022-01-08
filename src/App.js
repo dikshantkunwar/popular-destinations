@@ -13,7 +13,7 @@ function App() {
           dislikes={78}
           imageurl = "https://www.tripsavvy.com/thmb/IkoPZKwM5BmhWB-064flnLZWylo=/3804x3804/smart/filters:no_upscale()/bangkok-at-sunset-5bd5f2f746e0fb005818e042.jpg"
         />
-        <div>
+        <div className="mostPopular">
           <span>Most Popular Destination</span>
           <h2>Bangkok</h2>
         </div>
