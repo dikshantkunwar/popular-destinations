@@ -2,6 +2,19 @@ import './App.css';
 import Navigation from './components/Navigation';
 import Destination from './components/Destination';
 
+const destinations = {
+  "Bangkok": {
+    likes: 200,
+    dislikes: 78,
+    imageurl: "https://www.tripsavvy.com/thmb/IkoPZKwM5BmhWB-064flnLZWylo=/3804x3804/smart/filters:no_upscale()/bangkok-at-sunset-5bd5f2f746e0fb005818e042.jpg"
+  },
+  "New Delhi": {
+    likes: 88, 
+    dislikes: 309, 
+    imageurl: "https://media-cdn.tripadvisor.com/media/photo-s/08/b7/1f/31/qutab-minar.jpg"
+  }
+}
+
 function App() {
   return (
     <div className="App">
